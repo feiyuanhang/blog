@@ -1,0 +1,229 @@
+2020-09-26 11:12:48,162 [Thread-2:60192] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:19:27,051 [Thread-2:820] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:20:00,069 [Thread-3:62460] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:20:43,527 [Thread-4:58992] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:20:46,833 [Thread-5:2456] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:20:49,237 [Thread-6:57952] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:21:05,025 [Thread-7:16424] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:21:14,049 [Thread-29:52632] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:21:51,245 [Thread-51:48512] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:22:13,710 [Thread-74:50268] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:22:58,231 [Thread-97:56252] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:24:01,072 [Thread-119:23872] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:24:26,448 [Thread-2:9044] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:24:51,793 [Thread-24:65796] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:25:55,413 [Thread-26:9304] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:25:56,884 [Thread-48:20364] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:25:57,323 [Thread-69:1808] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:25:57,510 [Thread-91:340] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:25:58,108 [Thread-113:64172] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:26:23,788 [Thread-135:60144] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:26:37,226 [Thread-158:54128] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:27:34,776 [Thread-180:8540] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:27:39,003 [Thread-202:29884] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:27:42,757 [Thread-203:31940] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:28:20,646 [Thread-209:61808] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:28:31,203 [Thread-232:8324] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:33:11,851 [Thread-255:25036] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:34:35,483 [Thread-261:1620] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:36:43,540 [Thread-2:40780] [blog.views:32] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:43:04,130 [Thread-4:8160] [blog.views:29] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:43:53,821 [Thread-2:59484] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:44:08,992 [Thread-24:24956] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:44:30,591 [Thread-2:33000] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:46:08,650 [Thread-24:34200] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:47:19,884 [Thread-2:27860] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:50:23,607 [Thread-2:51956] [blog.views:30] [views:index] [ERROR]- 'ArticleManager' object has no attribute 'objects'
+2020-09-26 11:52:30,219 [Thread-3:26280] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 11:54:56,919 [Thread-2:3516] [blog.views:30] [views:index] [ERROR]- Cannot resolve keyword 'data_publish' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 12:31:01,701 [Thread-2:62804] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:32:03,665 [Thread-2:65008] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:35:23,658 [Thread-2:51552] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:39:55,356 [Thread-24:40832] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:42:37,918 [Thread-3:61100] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:44:58,820 [Thread-2:32112] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 12:46:41,851 [Thread-2:39900] [blog.views:30] [views:index] [ERROR]- 'str' object has no attribute 'strftime'
+2020-09-26 12:50:09,164 [Thread-2:6216] [blog.views:30] [views:index] [ERROR]- 'locale' codec can't encode character '\u6587' in position 5: encoding error
+2020-09-26 16:55:44,371 [Thread-29:37600] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 17:59:11,089 [Thread-9:11476] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 17:59:16,948 [Thread-10:33644] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 17:59:48,241 [Thread-32:8764] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 17:59:50,076 [Thread-54:58044] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 17:59:57,296 [Thread-78:39408] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 18:00:14,120 [Thread-82:8784] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 18:02:30,403 [Thread-2:35372] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 18:02:42,193 [Thread-26:60764] [blog.views:59] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2020-09-26 18:28:08,315 [Thread-98:31332] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:28:33,389 [Thread-102:57116] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:39:40,914 [Thread-115:24132] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:39:48,852 [Thread-117:19452] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:47:12,028 [Thread-131:60436] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:48:30,776 [Thread-132:37664] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 18:48:40,684 [Thread-155:49964] [blog.views:64] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-09-26 20:55:01,680 [Thread-2:18260] [blog.views:59] [views:archive] [ERROR]- paginator_list() missing 1 required positional argument: 'article_list'
+2020-09-26 20:55:05,241 [Thread-25:64356] [blog.views:59] [views:archive] [ERROR]- paginator_list() missing 1 required positional argument: 'article_list'
+2020-09-26 20:55:32,125 [Thread-27:66112] [blog.views:59] [views:archive] [ERROR]- paginator_list() missing 1 required positional argument: 'article_list'
+2020-09-26 20:59:34,261 [Thread-2:62944] [blog.views:57] [views:archive] [ERROR]- paginator_list() missing 1 required positional argument: 'article_list'
+2020-09-26 20:59:41,120 [Thread-25:39364] [blog.views:57] [views:archive] [ERROR]- paginator_list() missing 1 required positional argument: 'article_list'
+2020-09-28 11:25:23,554 [Thread-28:32032] [blog.views:119] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 11:26:05,507 [Thread-31:18876] [blog.views:119] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 11:27:51,924 [Thread-38:43828] [blog.views:119] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:29:17,971 [Thread-4:2372] [blog.views:119] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:30:51,555 [Thread-2:52196] [blog.views:119] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:32:51,370 [Thread-2:12668] [blog.views:121] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:32:53,915 [Thread-3:38680] [blog.views:121] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:32:54,140 [Thread-4:58388] [blog.views:121] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-09-28 14:33:03,608 [Thread-6:18012] [blog.views:121] [views:article] [ERROR]- type object 'Library' has no attribute 'tags'
+2020-09-28 14:37:41,959 [Thread-2:16712] [blog.views:121] [views:article] [ERROR]- type object 'Library' has no attribute 'tags'
+2020-09-28 14:38:01,362 [Thread-2:41440] [blog.views:121] [views:article] [ERROR]- type object 'Library' has no attribute 'tags'
+2020-09-28 14:51:59,135 [Thread-2:66148] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:03:27,268 [Thread-2:51984] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:10:54,945 [Thread-2:64536] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:11:08,600 [Thread-4:57876] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:13:19,565 [Thread-9:39156] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:13:24,284 [Thread-12:32964] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:23:08,305 [Thread-13:20584] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:25:18,483 [Thread-26:63436] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:25:19,735 [Thread-39:32592] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:25:20,239 [Thread-52:61420] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:25:22,943 [Thread-65:13100] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:25:50,164 [Thread-3:63540] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:26:14,218 [Thread-2:32540] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:26:26,953 [Thread-2:10412] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:02,196 [Thread-2:1448] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:20,331 [Thread-2:24388] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:21,487 [Thread-3:7092] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:26,218 [Thread-4:38460] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:27,499 [Thread-5:21956] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:28,115 [Thread-6:11508] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:28,350 [Thread-7:11600] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 15:34:31,910 [Thread-8:51456] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:25:22,158 [Thread-2:6288] [blog.views:138] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:27:25,687 [Thread-2:44072] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:27:50,622 [Thread-16:42252] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:31:50,455 [Thread-17:31180] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:32:29,279 [Thread-31:35880] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:33:57,025 [Thread-32:17460] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:34:01,398 [Thread-46:6236] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:34:52,273 [Thread-47:61068] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:35:00,693 [Thread-48:13792] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:36:10,359 [Thread-53:40032] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:36:18,630 [Thread-57:44100] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:37:35,022 [Thread-58:2852] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:38:12,261 [Thread-78:28764] [blog.views:139] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:48:16,614 [Thread-2:26584] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:48:18,185 [Thread-3:18668] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:59:46,178 [Thread-2:49524] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 16:59:54,683 [Thread-21:35960] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:00:00,369 [Thread-22:29316] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:00:14,057 [Thread-29:8280] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:02:52,610 [Thread-2:23992] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:02:55,757 [Thread-20:34152] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:03:14,572 [Thread-38:19736] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:03:20,237 [Thread-56:44956] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:03:23,234 [Thread-58:21176] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:04:13,864 [Thread-65:31076] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:04:23,023 [Thread-67:28416] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-28 17:04:30,829 [Thread-70:61396] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 20:04:07,837 [Thread-2:14516] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:57:26,135 [Thread-23:64204] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:57:38,734 [Thread-41:35728] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:57:45,372 [Thread-58:45268] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:57:52,439 [Thread-61:41380] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:58:33,918 [Thread-64:340] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:58:42,177 [Thread-82:66532] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:58:47,180 [Thread-101:45504] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:59:39,922 [Thread-107:61416] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:59:41,716 [Thread-125:23980] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 21:59:51,792 [Thread-143:40740] [blog.views:143] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:29:25,352 [Thread-3:64652] [blog.views:148] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:33,383 [Thread-25:14828] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:36,110 [Thread-27:41888] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:38,827 [Thread-29:60136] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:42,058 [Thread-31:59696] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:45,329 [Thread-33:32872] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:49,029 [Thread-35:20660] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:32:52,442 [Thread-37:50960] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:33:03,870 [Thread-39:38756] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:33:08,486 [Thread-41:12656] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:33:12,163 [Thread-43:26264] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-29 22:33:14,802 [Thread-45:63032] [blog.views:147] [views:article] [ERROR]- 'bool' object is not callable
+2020-09-30 11:16:24,795 [Thread-18:32220] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:16:34,756 [Thread-25:26424] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:17:28,861 [Thread-2:15236] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:17:32,340 [Thread-4:21268] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:18:19,962 [Thread-25:55800] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:18:23,781 [Thread-27:66320] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:20:17,395 [Thread-2:46560] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:20:39,072 [Thread-25:28228] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:21:38,240 [Thread-25:22312] [blog.views:149] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 11:21:39,414 [Thread-26:61464] [blog.views:149] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 11:22:05,042 [Thread-50:41068] [blog.views:149] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 11:22:30,421 [Thread-2:46652] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:22:33,901 [Thread-4:27316] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:35:21,295 [Thread-25:55872] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:40:24,641 [Thread-2:24324] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:40:33,579 [Thread-3:50000] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:40:34,544 [Thread-4:53716] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:40:35,503 [Thread-5:53084] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:42:12,657 [Thread-25:55352] [blog.views:149] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 11:42:16,871 [Thread-27:2072] [blog.views:149] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 11:43:24,640 [Thread-2:66032] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:43:46,878 [Thread-4:9252] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:44:12,455 [Thread-5:46252] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:44:24,815 [Thread-23:29296] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:44:42,558 [Thread-41:48572] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:44:44,335 [Thread-59:56016] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:45:23,808 [Thread-2:10744] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:45:38,500 [Thread-22:19196] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:49:19,493 [Thread-3:51024] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 11:49:31,102 [Thread-5:61300] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:07:29,463 [Thread-9:24532] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:07:47,511 [Thread-11:24536] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:07:52,213 [Thread-13:30620] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:10:10,969 [Thread-16:14108] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:11:00,663 [Thread-18:4536] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:11:24,365 [Thread-20:45332] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:12:52,119 [Thread-23:41060] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:13:13,040 [Thread-25:52404] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:30:14,971 [Thread-27:62064] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:30:21,392 [Thread-29:38428] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:35:14,520 [Thread-30:28696] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:35:18,110 [Thread-31:37440] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:35:36,674 [Thread-33:32020] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:39:09,186 [Thread-35:16676] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:39:20,048 [Thread-38:5540] [blog.views:149] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:47:23,239 [Thread-4:52832] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:47:32,296 [Thread-7:55612] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:47:41,360 [Thread-9:31660] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:47:52,551 [Thread-12:59144] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-09-30 15:54:30,693 [Thread-3:55268] [blog.views:150] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-09-30 15:54:40,326 [Thread-6:45224] [blog.views:150] [views:article] [ERROR]- (1048, "Column 'user_id' cannot be null")
+2020-10-01 13:34:23,772 [Thread-26:19920] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:23:52,931 [Thread-25:29432] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:24:07,561 [Thread-31:31072] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:24:28,964 [Thread-3:48616] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:24:53,326 [Thread-2:47612] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:25:00,119 [Thread-4:40756] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:25:13,522 [Thread-8:42284] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:26:31,486 [Thread-10:45672] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:27:47,781 [Thread-2:22380] [blog.views:150] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2020-10-01 14:38:51,722 [Thread-2:47536] [blog.views:152] [views:article] [ERROR]- 'DeferredAttribute' object is not callable
+2020-10-01 14:38:58,447 [Thread-22:28596] [blog.views:152] [views:article] [ERROR]- 'DeferredAttribute' object is not callable
+2020-10-01 14:42:07,787 [Thread-25:54220] [blog.views:152] [views:article] [ERROR]- click_count1() missing 1 required positional argument: 'self'
+2020-10-01 14:42:12,454 [Thread-27:49272] [blog.views:152] [views:article] [ERROR]- click_count1() missing 1 required positional argument: 'self'
+2020-10-01 14:43:00,282 [Thread-25:48880] [blog.views:152] [views:article] [ERROR]- click_count1() missing 1 required positional argument: 'self'
+2020-10-01 14:43:44,013 [Thread-3:9184] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-01 14:43:52,334 [Thread-8:34568] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-01 14:43:58,017 [Thread-10:15132] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-01 14:44:02,913 [Thread-12:29508] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-01 14:44:32,181 [Thread-2:20184] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-06 20:31:23,219 [Thread-28:36096] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-06 20:34:20,213 [Thread-41:11628] [blog.views:155] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-07 21:35:57,705 [Thread-42:74228] [blog.views:157] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-10-07 21:36:08,424 [Thread-44:80016] [blog.views:157] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-10-07 21:36:15,212 [Thread-47:80436] [blog.views:157] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-07 21:36:26,949 [Thread-61:29168] [blog.views:157] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-07 21:39:02,499 [Thread-64:10808] [blog.views:157] [views:article] [ERROR]- invalid literal for int() with base 10: ''
+2020-10-07 21:41:00,727 [Thread-88:78508] [blog.views:157] [views:article] [ERROR]- 'bool' object is not callable
+2020-10-07 21:41:08,169 [Thread-90:76644] [blog.views:157] [views:article] [ERROR]- 'bool' object is not callable
